@@ -64,6 +64,11 @@ If you want to run this project locally, follow these steps:
    > **💡 Editor Recommendation:**
    > It is highly recommended to use a VS Code-based text editor (such as **VS Code** or **Antigravity**) to run these notebooks. Simply open the `.ipynb` files directly in the editor and make sure you have the **Jupyter** extension installed for the best interactive experience.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 This is an ongoing project and will continue to be updated.
 
 If you're also learning NumPy, feel free to explore, fork, or discuss 🙌
