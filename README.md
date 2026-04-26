@@ -13,11 +13,11 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
   - [x] Array Attributes (`shape`, `size`, `ndim`, `dtype`)
   - [x] Random Number Generation (`np.random`)
-- [ ] **Indexing & Slicing**
-  - [ ] 1D Array Indexing & Slicing
-  - [ ] 2D/3D Array Indexing & Slicing
-  - [ ] Boolean Indexing (Masking)
-  - [ ] Fancy Indexing
+- [x] **Indexing & Slicing**
+  - [x] 1D Array Indexing & Slicing
+  - [x] 2D/3D Array Indexing & Slicing
+  - [x] Boolean Indexing (Masking)
+  - [x] Fancy Indexing
 - [ ] **Mathematical Operations**
   - [ ] Element-wise Operations (Arithmetic)
   - [ ] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
