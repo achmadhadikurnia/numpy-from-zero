@@ -30,9 +30,11 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] Absolute Values (`np.abs`)
   - [x] Value Clipping (`np.clip`)
   - [x] Cumulative Computations (`np.cumsum`)
-- [ ] **Broadcasting**
-  - [ ] Rules of Broadcasting
-  - [ ] Broadcasting with Scalars and Arrays
+- [x] **Broadcasting**
+  - [x] Broadcasting with Scalars
+  - [x] The Rules of Broadcasting
+  - [x] Broadcasting Arrays of Different Shapes
+  - [x] Real-world Example (Data Normalization)
 - [ ] **Simple Mini Projects**
   - [ ] Data Normalization
   - [ ] Basic Image Manipulation (Arrays representing pixels)
