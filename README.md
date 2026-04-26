@@ -23,9 +23,13 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] Element-wise Operations (Arithmetic)
   - [x] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
   - [x] Matrix Operations (Dot product, etc.)
-  - [x] Universal Math Functions (`sqrt`, `exp`, `log`)
+  - [x] Universal Math Functions (ufuncs) (`sqrt`, `exp`, `log`)
   - [x] Rounding (`round`, `floor`, `ceil`)
-  - [x] Argmax & Argmin (`argmax`, `argmin`)
+  - [x] Argmax and Argmin (`argmax`, `argmin`)
+  - [x] Advanced Statistics (Median & Percentiles)
+  - [x] Absolute Values (`np.abs`)
+  - [x] Value Clipping (`np.clip`)
+  - [x] Cumulative Computations (`np.cumsum`)
 - [ ] **Broadcasting**
   - [ ] Rules of Broadcasting
   - [ ] Broadcasting with Scalars and Arrays
