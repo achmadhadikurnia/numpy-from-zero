@@ -12,6 +12,7 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 - [x] **Basic Arrays**
   - [x] Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
   - [x] Array Attributes (`shape`, `size`, `ndim`, `dtype`)
+  - [x] Array Manipulation (`reshape`, `astype`)
   - [x] Random Number Generation (`np.random`)
 - [x] **Indexing & Slicing**
   - [x] 1D Array Indexing & Slicing
