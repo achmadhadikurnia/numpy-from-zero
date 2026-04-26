@@ -1,6 +1,6 @@
 # NumPy From Zero
 
-This repository documents my journey of learning NumPy from scratch. 
+This repository documents my journey of learning NumPy from scratch.
 The goal is not just to understand the theory, but to practice it through simple examples and gradually move into more practical use cases. I created this repository because I believe learning becomes more effective when it is documented, and hopefully it can also help others who are learning NumPy.
 
 ## What is NumPy?
@@ -12,8 +12,8 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 - [x] **Basic Arrays**
   - [x] Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
   - [x] Array Attributes (`shape`, `size`, `ndim`, `dtype`)
-  - [x] Array Manipulation (`reshape`, `astype`)
   - [x] Random Number Generation (`np.random`)
+  - [x] Array Manipulation (`reshape`, `flatten`, `astype`, `copy`)
 - [x] **Indexing & Slicing**
   - [x] 1D Array Indexing & Slicing
   - [x] 2D/3D Array Indexing & Slicing
@@ -23,6 +23,9 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] Element-wise Operations (Arithmetic)
   - [x] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
   - [x] Matrix Operations (Dot product, etc.)
+  - [x] Universal Math Functions (`sqrt`, `exp`, `log`)
+  - [x] Rounding (`round`, `floor`, `ceil`)
+  - [x] Argmax & Argmin (`argmax`, `argmin`)
 - [ ] **Broadcasting**
   - [ ] Rules of Broadcasting
   - [ ] Broadcasting with Scalars and Arrays
