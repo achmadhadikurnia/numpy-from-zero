@@ -9,32 +9,32 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 
 ## Learning Path
 
-- [x] **Basic Arrays** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/01-basic-arrays.ipynb)
-  - [x] Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
-  - [x] Array Attributes (`shape`, `size`, `ndim`, `dtype`)
-  - [x] Random Number Generation (`np.random`)
-  - [x] Array Manipulation (`reshape`, `flatten`, `astype`, `copy`)
-- [x] **Indexing & Slicing** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/02-indexing-and-slicing.ipynb)
-  - [x] 1D Array Indexing & Slicing
-  - [x] 2D/3D Array Indexing & Slicing
-  - [x] Boolean Indexing (Masking)
-  - [x] Fancy Indexing
-- [x] **Mathematical Operations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/03-mathematical-operations.ipynb)
-  - [x] Element-wise Operations (Arithmetic)
-  - [x] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
-  - [x] Matrix Operations (Dot product, etc.)
-  - [x] Universal Math Functions (ufuncs) (`sqrt`, `exp`, `log`)
-  - [x] Rounding (`round`, `floor`, `ceil`)
-  - [x] Argmax and Argmin (`argmax`, `argmin`)
-  - [x] Advanced Statistics (Median & Percentiles)
-  - [x] Absolute Values (`np.abs`)
-  - [x] Value Clipping (`np.clip`)
-  - [x] Cumulative Computations (`np.cumsum`)
-- [x] **Broadcasting** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/04-broadcasting.ipynb)
-  - [x] Broadcasting with Scalars
-  - [x] The Rules of Broadcasting
-  - [x] Broadcasting Arrays of Different Shapes
-  - [x] Real-world Example (Data Normalization)
+- [x] [**1. Basic Arrays**](notes/01-basic-arrays.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/01-basic-arrays.ipynb)
+  - [x] 1.1 Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
+  - [x] 1.2 Array Attributes (`shape`, `size`, `ndim`, `dtype`)
+  - [x] 1.3 Random Number Generation (`np.random`)
+  - [x] 1.4 Array Manipulation (`reshape`, `flatten`, `astype`, `copy`)
+- [x] [**2. Indexing & Slicing**](notes/02-indexing-and-slicing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/02-indexing-and-slicing.ipynb)
+  - [x] 2.1 1D Array Indexing & Slicing
+  - [x] 2.2 2D/3D Array Indexing & Slicing
+  - [x] 2.3 Boolean Indexing (Masking)
+  - [x] 2.4 Fancy Indexing
+- [x] [**3. Mathematical Operations**](notes/03-mathematical-operations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/03-mathematical-operations.ipynb)
+  - [x] 3.1 Element-wise Operations (Arithmetic)
+  - [x] 3.2 Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
+  - [x] 3.3 Matrix Operations (Dot product, etc.)
+  - [x] 3.4 Universal Math Functions (ufuncs) (`sqrt`, `exp`, `log`)
+  - [x] 3.5 Rounding (`round`, `floor`, `ceil`)
+  - [x] 3.6 Argmax and Argmin (`argmax`, `argmin`)
+  - [x] 3.7 Advanced Statistics (Median & Percentiles)
+  - [x] 3.8 Absolute Values (`np.abs`)
+  - [x] 3.9 Value Clipping (`np.clip`)
+  - [x] 3.10 Cumulative Computations (`np.cumsum`)
+- [x] [**4. Broadcasting in NumPy**](notes/04-broadcasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/04-broadcasting.ipynb)
+  - [x] 4.1 Broadcasting with Scalars
+  - [x] 4.2 The Rules of Broadcasting
+  - [x] 4.3 Broadcasting Arrays of Different Shapes
+  - [x] 4.4 Real-world Example: Data Normalization
 - [ ] **Simple Mini Projects**
   - [ ] Data Normalization
   - [ ] Basic Image Manipulation (Arrays representing pixels)
