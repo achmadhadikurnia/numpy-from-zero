@@ -9,17 +9,17 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 
 ## Learning Path
 
-- [x] **Basic Arrays**
+- [x] **Basic Arrays** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/01-basic-arrays.ipynb)
   - [x] Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
   - [x] Array Attributes (`shape`, `size`, `ndim`, `dtype`)
   - [x] Random Number Generation (`np.random`)
   - [x] Array Manipulation (`reshape`, `flatten`, `astype`, `copy`)
-- [x] **Indexing & Slicing**
+- [x] **Indexing & Slicing** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/02-indexing-and-slicing.ipynb)
   - [x] 1D Array Indexing & Slicing
   - [x] 2D/3D Array Indexing & Slicing
   - [x] Boolean Indexing (Masking)
   - [x] Fancy Indexing
-- [x] **Mathematical Operations**
+- [x] **Mathematical Operations** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/03-mathematical-operations.ipynb)
   - [x] Element-wise Operations (Arithmetic)
   - [x] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
   - [x] Matrix Operations (Dot product, etc.)
@@ -30,7 +30,7 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] Absolute Values (`np.abs`)
   - [x] Value Clipping (`np.clip`)
   - [x] Cumulative Computations (`np.cumsum`)
-- [x] **Broadcasting**
+- [x] **Broadcasting** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/04-broadcasting.ipynb)
   - [x] Broadcasting with Scalars
   - [x] The Rules of Broadcasting
   - [x] Broadcasting Arrays of Different Shapes
@@ -41,6 +41,12 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [ ] Statistical Analysis on a dummy dataset
 
 ## Getting Started
+
+### Run on Google Colab
+
+You can run the notebooks directly in your browser without installing anything locally by clicking the **Open In Colab** badge next to each module in the Learning Path above.
+
+### Run Locally
 
 If you want to run this project locally, follow these steps:
 
