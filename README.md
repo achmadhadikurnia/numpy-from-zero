@@ -19,10 +19,10 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] 2D/3D Array Indexing & Slicing
   - [x] Boolean Indexing (Masking)
   - [x] Fancy Indexing
-- [ ] **Mathematical Operations**
-  - [ ] Element-wise Operations (Arithmetic)
-  - [ ] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
-  - [ ] Matrix Operations (Dot product, etc.)
+- [x] **Mathematical Operations**
+  - [x] Element-wise Operations (Arithmetic)
+  - [x] Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
+  - [x] Matrix Operations (Dot product, etc.)
 - [ ] **Broadcasting**
   - [ ] Rules of Broadcasting
   - [ ] Broadcasting with Scalars and Arrays
