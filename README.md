@@ -1,7 +1,9 @@
-# NumPy From Zero
+# NumPy From Zero: A Comprehensive Guide for Beginners
 
-This repository documents my journey of learning NumPy from scratch.
-The goal is not just to understand the theory, but to practice it through simple examples and gradually move into more practical use cases. I created this repository because I believe learning becomes more effective when it is documented, and hopefully it can also help others who are learning NumPy.
+Welcome to **NumPy From Zero**! This repository documents a structured journey of learning **NumPy (Numerical Python)** from scratch. Whether you are stepping into **Data Science**, **Machine Learning**, or **Scientific Computing**, mastering NumPy is an essential first step in the Python ecosystem.
+
+The goal is not just to understand the theory, but to practice it through simple examples and gradually move into practical use cases. I created this repository because I believe learning becomes more effective when documented, and hopefully, it serves as a valuable tutorial and reference for others learning Python data analysis.
+
 
 ## What is NumPy?
 

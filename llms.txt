@@ -1,0 +1,26 @@
+# NumPy From Zero - AI Context File
+
+This file provides context for Large Language Models (LLMs) and AI agents interacting with this repository.
+
+## Project Overview
+This repository, named "NumPy From Zero", is a structured learning path and tutorial series for mastering the NumPy library in Python. It is designed for beginners entering data science, machine learning, and scientific computing.
+
+## Repository Structure
+- `notes/`: Contains the primary learning materials. All notes are written as Jupyter Notebooks (`.ipynb`). These notebooks follow a strict format: a Markdown introduction outlining the topics covered, followed by a mix of Markdown explanations and Python code cells.
+- `requirements.txt`: Lists the Python dependencies required to run the notebooks (primarily `numpy` and `jupyter`).
+- `README.md`: Contains the learning path (Table of Contents), setup instructions, and links to run notebooks directly in Google Colab.
+
+## Current Modules (in `notes/`)
+1. **01-basic-arrays.ipynb**: Covers array creation, attributes, random number generation, and basic array manipulation (reshape, flatten, type casting).
+2. **02-indexing-and-slicing.ipynb**: Covers accessing elements in 1D/2D/3D arrays, boolean indexing (masking), and fancy indexing.
+3. **03-mathematical-operations.ipynb**: Covers element-wise arithmetic, aggregation functions, matrix operations (dot products), ufuncs, rounding, argmax/argmin, statistics, absolute values, value clipping, and cumulative computations.
+4. **04-broadcasting.ipynb**: Explains the rules of broadcasting in NumPy, broadcasting with scalars, arrays of different shapes, and a real-world example of data normalization.
+
+## Coding Style & Guidelines
+- Code should be heavily commented to aid learners.
+- When introducing a new NumPy function, always provide a simple, verifiable example.
+- Prefer explicit variable names (e.g., `zeros_matrix`, `rand_arr`) over generic ones.
+- When generating random numbers, always use `np.random.seed()` for reproducibility when demonstrating a specific concept.
+
+## Purpose
+If you are an AI assistant helping the user expand this repository, please adhere to the existing Markdown format in the Jupyter notebooks, maintain the exact numerical prefixes in the README's Learning Path, and provide clear, beginner-friendly explanations.
