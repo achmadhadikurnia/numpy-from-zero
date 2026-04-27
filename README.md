@@ -37,6 +37,14 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] 4.2 The Rules of Broadcasting
   - [x] 4.3 Broadcasting Arrays of Different Shapes
   - [x] 4.4 Real-world Example: Data Normalization
+- [ ] [**5. Advanced Array Manipulation**](notes/05-advanced-manipulation.ipynb)
+  - [ ] 5.1 Joining Arrays (`np.concatenate`, `np.vstack`, `np.hstack`)
+  - [ ] 5.2 Splitting Arrays (`np.split`, `np.hsplit`, `np.vsplit`)
+  - [ ] 5.3 Conditional Searching (`np.where`)
+  - [ ] 5.4 Unique Values and Membership (`np.unique`, `np.isin`)
+  - [ ] 5.5 Sorting Arrays (`np.sort`, `np.argsort`)
+  - [ ] 5.6 Adding and Removing Elements (`np.append`, `np.insert`, `np.delete`)
+  - [ ] 5.7 Handling Missing Values (`np.isnan`, `np.nan_to_num`, `np.nanmean`, `np.nansum`)
 - [ ] **Simple Mini Projects**
   - [ ] Data Normalization
   - [ ] Basic Image Manipulation (Arrays representing pixels)
