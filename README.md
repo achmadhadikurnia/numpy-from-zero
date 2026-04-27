@@ -37,19 +37,19 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] 4.2 The Rules of Broadcasting
   - [x] 4.3 Broadcasting Arrays of Different Shapes
   - [x] 4.4 Real-world Example: Data Normalization
-- [ ] [**5. Advanced Array Manipulation**](notes/05-advanced-manipulation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/05-advanced-manipulation.ipynb)
-  - [ ] 5.1 Joining Arrays (`np.concatenate`, `np.vstack`, `np.hstack`)
-  - [ ] 5.2 Splitting Arrays (`np.split`, `np.hsplit`, `np.vsplit`)
-  - [ ] 5.3 Conditional Searching (`np.where`)
-  - [ ] 5.4 Unique Values and Membership (`np.unique`, `np.isin`)
-  - [ ] 5.5 Sorting Arrays (`np.sort`, `np.argsort`)
-  - [ ] 5.6 Adding and Removing Elements (`np.append`, `np.insert`, `np.delete`)
-  - [ ] 5.7 Handling Missing Values (`np.isnan`, `np.nan_to_num`, `np.nanmean`, `np.nansum`)
-- [ ] [**6. File I/O (Reading & Writing Data)**](notes/06-file-io.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/06-file-io.ipynb)
-  - [ ] 6.1 Saving & Loading NumPy Binary Files (`np.save`, `np.load`, `.npy`, `.npz`)
-  - [ ] 6.2 Saving & Loading Text / CSV Files (`np.savetxt`, `np.loadtxt`)
-  - [ ] 6.3 Loading Files with Missing Values (`np.genfromtxt`)
-  - [ ] 6.4 Real-world Example: Save, Reload, and Analyze a Dataset
+- [x] [**5. Advanced Array Manipulation**](notes/05-advanced-manipulation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/05-advanced-manipulation.ipynb)
+  - [x] 5.1 Joining Arrays (`np.concatenate`, `np.vstack`, `np.hstack`)
+  - [x] 5.2 Splitting Arrays (`np.split`, `np.hsplit`, `np.vsplit`)
+  - [x] 5.3 Conditional Searching (`np.where`)
+  - [x] 5.4 Unique Values and Membership (`np.unique`, `np.isin`)
+  - [x] 5.5 Sorting Arrays (`np.sort`, `np.argsort`)
+  - [x] 5.6 Adding and Removing Elements (`np.append`, `np.insert`, `np.delete`)
+  - [x] 5.7 Handling Missing Values (`np.isnan`, `np.nan_to_num`, `np.nanmean`, `np.nansum`)
+- [x] [**6. File I/O (Reading & Writing Data)**](notes/06-file-io.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/06-file-io.ipynb)
+  - [x] 6.1 Saving & Loading NumPy Binary Files (`np.save`, `np.load`, `.npy`, `.npz`)
+  - [x] 6.2 Saving & Loading Text / CSV Files (`np.savetxt`, `np.loadtxt`)
+  - [x] 6.3 Loading Files with Missing Values (`np.genfromtxt`)
+  - [x] 6.4 Real-world Example: Save, Reload, and Analyze a Dataset
 - [ ] **Simple Mini Projects**
   - [ ] Data Normalization
   - [ ] Basic Image Manipulation (Arrays representing pixels)
