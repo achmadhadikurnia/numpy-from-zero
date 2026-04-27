@@ -45,6 +45,11 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [ ] 5.5 Sorting Arrays (`np.sort`, `np.argsort`)
   - [ ] 5.6 Adding and Removing Elements (`np.append`, `np.insert`, `np.delete`)
   - [ ] 5.7 Handling Missing Values (`np.isnan`, `np.nan_to_num`, `np.nanmean`, `np.nansum`)
+- [ ] [**6. File I/O (Reading & Writing Data)**](notes/06-file-io.ipynb)
+  - [ ] 6.1 Saving & Loading NumPy Binary Files (`np.save`, `np.load`, `.npy`, `.npz`)
+  - [ ] 6.2 Saving & Loading Text / CSV Files (`np.savetxt`, `np.loadtxt`)
+  - [ ] 6.3 Loading Files with Missing Values (`np.genfromtxt`)
+  - [ ] 6.4 Real-world Example: Save, Reload, and Analyze a Dataset
 - [ ] **Simple Mini Projects**
   - [ ] Data Normalization
   - [ ] Basic Image Manipulation (Arrays representing pixels)
