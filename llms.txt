@@ -22,9 +22,9 @@ This repository, named "NumPy From Zero", is a structured learning path and tuto
 6. **06-file-io.ipynb**: Covers reading and writing data using NumPy's File I/O tools: saving and loading binary arrays (`np.save`, `np.load`, `.npy`, `.npz`), saving and loading text/CSV files (`np.savetxt`, `np.loadtxt`), loading files with missing values (`np.genfromtxt`), and a real-world example of saving, reloading, and analyzing a dataset.
 
 ### Projects (in `projects/`)
-7. **01-statistical-analysis.ipynb**: A complete guided project that applies data generation, basic statistics, boolean indexing (filtering), finding extremes (argmax/argmin), file I/O, and data visualization.
-8. **02-nearest-neighbor.ipynb**: A higher-difficulty guided project simulating a nearest neighbor search. It heavily utilizes multi-dimensional arrays, broadcasting, Euclidean distance calculations, sorting (`np.argsort`), and boolean masking.
-9. **03-kmeans-clustering.ipynb**: The final boss project building a complete K-Means Clustering algorithm from scratch. It tests ultimate mastery of NumPy by utilizing advanced broadcasting (`np.newaxis`), aggregation along specific axes, boolean indexing, and array manipulation inside an iterative loop.
+7. **01-weather-data-analysis.ipynb**: A complete guided project that applies data generation, basic statistics, boolean indexing (filtering), finding extremes (argmax/argmin), file I/O, and data visualization.
+8. **02-finding-closest-locations.ipynb**: A higher-difficulty guided project simulating a nearest neighbor search. It heavily utilizes multi-dimensional arrays, broadcasting, Euclidean distance calculations, sorting (`np.argsort`), and boolean masking.
+9. **03-grouping-data-into-clusters.ipynb**: The final boss project building a complete K-Means Clustering algorithm from scratch. It tests ultimate mastery of NumPy by utilizing advanced broadcasting (`np.newaxis`), aggregation along specific axes, boolean indexing, and array manipulation inside an iterative loop.
 
 ## Coding Style & Guidelines
 - Code should be heavily commented to aid learners.

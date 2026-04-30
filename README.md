@@ -52,9 +52,9 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] 6.3 Loading Files with Missing Values (`np.genfromtxt`)
   - [x] 6.4 Real-world Example: Save, Reload, and Analyze a Dataset
 - [ ] [**7. Projects**](projects/)
-  - [ ] [7.1 Weather Data Analysis](projects/01-statistical-analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/01-statistical-analysis.ipynb)
-  - [ ] [7.2 Finding Closest Locations](projects/02-nearest-neighbor.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/02-nearest-neighbor.ipynb)
-  - [ ] [7.3 Grouping Data into Clusters](projects/03-kmeans-clustering.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/03-kmeans-clustering.ipynb)
+  - [x] [7.1 Weather Data Analysis](projects/01-weather-data-analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/01-weather-data-analysis.ipynb)
+  - [x] [7.2 Finding Closest Locations](projects/02-finding-closest-locations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/02-finding-closest-locations.ipynb)
+  - [x] [7.3 Grouping Data into Clusters](projects/03-grouping-data-into-clusters.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/03-grouping-data-into-clusters.ipynb)
 
 ## Getting Started
 
