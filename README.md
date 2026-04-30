@@ -51,10 +51,8 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
   - [x] 6.2 Saving & Loading Text / CSV Files (`np.savetxt`, `np.loadtxt`)
   - [x] 6.3 Loading Files with Missing Values (`np.genfromtxt`)
   - [x] 6.4 Real-world Example: Save, Reload, and Analyze a Dataset
-- [ ] **Simple Mini Projects**
-  - [ ] Data Normalization
-  - [ ] Basic Image Manipulation (Arrays representing pixels)
-  - [ ] Statistical Analysis on a dummy dataset
+- [ ] [**7. Projects**](projects/)
+  - [ ] [7.1 Statistical Analysis on a Wheater Data](projects/01-statistical-analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/projects/01-statistical-analysis.ipynb)
 
 ## Getting Started
 
