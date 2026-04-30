@@ -11,10 +11,10 @@ This repository, named "NumPy From Zero", is a structured learning path and tuto
 - `README.md`: Contains the learning path (Table of Contents), setup instructions, and links to run notebooks directly in Google Colab.
 
 ## Current Modules (in `notes/`)
-1. **01-basic-arrays.ipynb**: Covers array creation, attributes, random number generation, and basic array manipulation (reshape, flatten, type casting).
+1. **01-basic-arrays.ipynb**: Covers array creation (`np.meshgrid`), attributes, random number generation, and basic array manipulation (reshape, flatten, type casting, transposing).
 2. **02-indexing-and-slicing.ipynb**: Covers accessing elements in 1D/2D/3D arrays, boolean indexing (masking), and fancy indexing.
-3. **03-mathematical-operations.ipynb**: Covers element-wise arithmetic, aggregation functions, matrix operations (dot products), ufuncs, rounding, argmax/argmin, statistics, absolute values, value clipping, and cumulative computations.
-4. **04-broadcasting.ipynb**: Explains the rules of broadcasting in NumPy, broadcasting with scalars, arrays of different shapes, and a real-world example of data normalization.
+3. **03-mathematical-operations.ipynb**: Covers element-wise arithmetic, aggregation functions, matrix operations and basic linear algebra (dot products, inverse, determinant), ufuncs, rounding, argmax/argmin, statistics, absolute values, value clipping, and cumulative computations.
+4. **04-broadcasting.ipynb**: Explains the rules of broadcasting in NumPy, broadcasting with scalars, adjusting dimensions (`np.newaxis`), arrays of different shapes, and a real-world example of data normalization.
 5. **05-advanced-manipulation.ipynb**: Covers advanced array manipulation techniques including joining arrays (`np.concatenate`, `np.vstack`, `np.hstack`), splitting arrays, conditional searching with `np.where`, finding unique values (`np.unique`, `np.isin`), sorting (`np.sort`, `np.argsort`), adding/removing elements (`np.append`, `np.insert`, `np.delete`), and handling missing values (`np.isnan`, `np.nan_to_num`, `np.nanmean`, `np.nansum`).
 6. **06-file-io.ipynb**: Covers reading and writing data using NumPy's File I/O tools: saving and loading binary arrays (`np.save`, `np.load`, `.npy`, `.npz`), saving and loading text/CSV files (`np.savetxt`, `np.loadtxt`), loading files with missing values (`np.genfromtxt`), and a real-world example of saving, reloading, and analyzing a dataset.
 

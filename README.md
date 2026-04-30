@@ -12,10 +12,10 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 ## Learning Path
 
 - [x] [**1. Basic Arrays**](notes/01-basic-arrays.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/01-basic-arrays.ipynb)
-  - [x] 1.1 Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`)
+  - [x] 1.1 Array Creation (`np.array`, `np.zeros`, `np.ones`, `np.full`, `np.arange`, `np.linspace`, `np.eye`, `np.meshgrid`)
   - [x] 1.2 Array Attributes (`shape`, `size`, `ndim`, `dtype`)
   - [x] 1.3 Random Number Generation (`np.random`)
-  - [x] 1.4 Array Manipulation (`reshape`, `flatten`, `astype`, `copy`)
+  - [x] 1.4 Array Manipulation (`reshape`, `flatten`, `astype`, `copy`, `array.T`)
 - [x] [**2. Indexing & Slicing**](notes/02-indexing-and-slicing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/02-indexing-and-slicing.ipynb)
   - [x] 2.1 1D Array Indexing & Slicing
   - [x] 2.2 2D/3D Array Indexing & Slicing
@@ -24,7 +24,7 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 - [x] [**3. Mathematical Operations**](notes/03-mathematical-operations.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/03-mathematical-operations.ipynb)
   - [x] 3.1 Element-wise Operations (Arithmetic)
   - [x] 3.2 Aggregation Functions (`sum`, `mean`, `max`, `min`, `std`)
-  - [x] 3.3 Matrix Operations (Dot product, etc.)
+  - [x] 3.3 Matrix Operations & Linear Algebra (Dot product, Inverse, Determinant)
   - [x] 3.4 Universal Math Functions (ufuncs) (`sqrt`, `exp`, `log`)
   - [x] 3.5 Rounding (`round`, `floor`, `ceil`)
   - [x] 3.6 Argmax and Argmin (`argmax`, `argmin`)
@@ -35,8 +35,9 @@ NumPy (Numerical Python) is a powerful open-source library in Python used for nu
 - [x] [**4. Broadcasting in NumPy**](notes/04-broadcasting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/04-broadcasting.ipynb)
   - [x] 4.1 Broadcasting with Scalars
   - [x] 4.2 The Rules of Broadcasting
-  - [x] 4.3 Broadcasting Arrays of Different Shapes
-  - [x] 4.4 Real-world Example: Data Normalization
+  - [x] 4.3 Adjusting Dimensions (`np.newaxis`, `np.expand_dims`)
+  - [x] 4.4 Broadcasting Arrays of Different Shapes
+  - [x] 4.5 Real-world Example: Data Normalization
 - [x] [**5. Advanced Array Manipulation**](notes/05-advanced-manipulation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/numpy-from-zero/blob/main/notes/05-advanced-manipulation.ipynb)
   - [x] 5.1 Joining Arrays (`np.concatenate`, `np.vstack`, `np.hstack`)
   - [x] 5.2 Splitting Arrays (`np.split`, `np.hsplit`, `np.vsplit`)
