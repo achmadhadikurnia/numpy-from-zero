@@ -96,6 +96,13 @@ If you want to run this project locally, follow these steps:
    > **💡 Editor Recommendation:**
    > It is highly recommended to use a VS Code-based text editor (such as **VS Code** or **Antigravity**) to run these notebooks. Simply open the `.ipynb` files directly in the editor and make sure you have the **Jupyter** extension installed for the best interactive experience.
 
+## Support
+
+If you find this repository helpful, consider supporting my work via Buy Me a Coffee or Saweria! Your contributions fuel my late-night coding sessions and help me create more open-source software, libraries, and learning materials.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/achmadhadikurnia)
+[![Saweria](https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://saweria.co/achmadhadikurnia)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
